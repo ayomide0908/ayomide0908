@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayomide
 
-<!--
-**ayomide0908/ayomide0908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Fullstack Web Developer  
+🛠️ Building cool web projects with HTML, CSS, JavaScript (and more to come)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 My Projects
+
+| Project | Preview | Description |
+|--------|---------|-------------|
+| [Hotel Website](https://github.com/ayomide0908/hotel-website) | ![Hotel Preview](https://raw.githubusercontent.com/ayomide0908/hotel-website/main/preview.png) | A clean, responsive static website for a hotel |
+| [Mortgage Calculator](https://github.com/ayomide0908/mortgage-calculator) | ![Mortgage Preview](https://raw.githubusercontent.com/ayomide0908/mortgage-calculator/main/preview.png) | Simple JS-based calculator to estimate monthly payments |
+| [Contact Form](https://github.com/ayomide0908/contact-form) | ![Contact Form Preview](https://raw.githubusercontent.com/ayomide0908/contact-form/main/preview.png) | A responsive contact form UI |
+| [3D Login Page](https://github.com/ayomide0908/3d-login-page) | ![Login Preview](https://raw.githubusercontent.com/ayomide0908/3d-login-page/main/preview.png) | A modern 3D-styled login interface |
+
+---
+
+## 🧠 Currently Learning
+- ✅ HTML, CSS
+- 🔜 JavaScript, Bootstrap
+- 💡 Git & GitHub workflows
+
+---
+
+## 📫 Let's Connect
+
+- 🐦 Twitter: [@Ayobankole09](https://twitter.com/Ayobankole09)
+- 💼 LinkedIn: [Ayomide Bankole](https://www.linkedin.com/in/ayomide-bankole-16a289375)
