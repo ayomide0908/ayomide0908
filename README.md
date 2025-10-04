@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ayomide
+# 👋 Hi, I'm Bankole
 
 🚀 Aspiring Fullstack Web Developer  
 
