@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ayomide
 
 🚀 Aspiring Fullstack Web Developer  
-🛠️ Building cool web projects with HTML, CSS, JavaScript (and more to come)
+
 
 ---
 ---
