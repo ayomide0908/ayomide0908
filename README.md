@@ -7,9 +7,7 @@
 ---
 
 ## 🧠 Currently Learning
-- ✅ HTML, CSS
-- 🔜 JavaScript, Bootstrap
-- 💡 Git & GitHub workflows
+
 
 ---
 
