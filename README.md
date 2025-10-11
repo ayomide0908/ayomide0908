@@ -10,5 +10,5 @@
 
 ## 📫 Let's Connect
 
-- 🐦 Twitter: [@Dev_Bankole](https://twitter.com/Ayobankole09)
+- Twitter: [@Dev_Bankole](https://twitter.com/Ayobankole09)
 
